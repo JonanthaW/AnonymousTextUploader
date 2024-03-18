@@ -11,5 +11,6 @@ Aplicativo WEB criado em JAVA onde usuários podem dar upload em textos de forma
 *  Java Spring framework
 *  POSTMAN
 *  PostGreSQL
+*  Angular
 
 ### :computer: Como instalar a aplicação:
