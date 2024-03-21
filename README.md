@@ -14,6 +14,6 @@ Aplicativo WEB criado em JAVA onde usuários podem dar upload em textos de forma
 *  Angular
 
 ### :computer: Atualizações:
-[] - Enviar via DOCKER;
+ - [ ] Enviar via DOCKER;
 
 ### :computer: Como instalar a aplicação:
