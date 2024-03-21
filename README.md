@@ -13,4 +13,7 @@ Aplicativo WEB criado em JAVA onde usuários podem dar upload em textos de forma
 *  PostGreSQL
 *  Angular
 
+### :computer: Atualizações:
+[] - Enviar via DOCKER;
+
 ### :computer: Como instalar a aplicação:
